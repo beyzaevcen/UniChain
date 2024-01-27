@@ -2,7 +2,7 @@
 <img width="800" alt="Ekran Resmi 2024-01-25 18 51 22" src="https://github.com/zehraozturkk/UniChain/assets/95762073/2fcd271e-3ba9-4615-b88a-44862123b3ac">
 
 ## Introduction
-
+[en:]
 Blockchain technology is not just the technology of the future; it's the technology of today. As online payments become widespread, transparency in daily activities, such as food orders, becomes increasingly important. Despite its reliability, blockchain technology is not as widely used as it could be. UniChain seeks to seize the opportunity to popularize blockchain, starting with young people.
 
 Integrating blockchain technology into university cafeteria systems addresses a common issue faced by universities. This solution aims to popularize blockchain by ensuring transparency in food purchases and providing a convenient and secure payment process using tokens. UniChain envisions overcoming challenges in current cafeteria systems, reducing the risk of lost money, and promoting blockchain use among university students.
@@ -108,7 +108,7 @@ This is our project model overview:
 # UniChain Projesi
 
 ## Tanıtım
-
+[tr:]
 Blockchain teknolojisi sadece geleceğin teknolojisi değil, bugünün teknolojisidir. Online ödemelerin yaygınlaşması ile günlük aktivitelerde, özellikle yemek siparişlerinde şeffaflık giderek daha önemli hale gelmektedir. Ancak, güvenilir olmasına rağmen blockchain teknolojisi, yaygın olarak kullanılmamaktadır. UniChain, bu fırsatı gençlerle başlayarak blockchain'i popülerleştirmeyi hedeflemektedir.
 
 Blockchain teknolojisini üniversite yemekhane sistemlerine entegre etmek, üniversitelerin karşılaştığı ortak bir sorunu ele almaktadır. Bu çözüm, gıda alımlarında şeffaflığı sağlayarak ve token kullanarak kullanıcılar için güvenli ve uygun bir ödeme süreci sunarak blockchain'i popülerleştirmeyi amaçlamaktadır. UniChain, mevcut yemekhane sistemlerindeki zorlukları aşmayı, kayıp paraların riskini azaltmayı ve üniversite öğrencileri arasında blockchain kullanımını teşvik etmeyi hedeflemektedir.
