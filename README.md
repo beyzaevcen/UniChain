@@ -7,39 +7,40 @@ Blockchain technology is not just the technology of the future; it's the technol
 
 Integrating blockchain technology into university cafeteria systems addresses a common issue faced by universities. This solution aims to popularize blockchain by ensuring transparency in food purchases and providing a convenient and secure payment process using tokens. UniChain envisions overcoming challenges in current cafeteria systems, reducing the risk of lost money, and promoting blockchain use among university students.
 
-## Security Issues:
+# Cafeteria System Challenges and Solutions
 
-### Centralized System Vulnerabilities:
-Centralized systems can be weak in terms of security due to concentration in a single point. This makes them more susceptible to malicious attacks or data leaks.
+## Systemic Slowdowns Caused by Centralization
 
-### Data Privacy Concerns:
-Central systems store users' personal and private information in a single central point, raising concerns about user data privacy.
+### Challenge:
+The centralization of cafeteria systems introduces challenges related to systemic slowdowns, impacting the overall efficiency and responsiveness of the system.
 
-### Single Point of Failure:
-Central systems, concentrated on a single server or system, can lead to the entire system being affected in case of a failure or downtime.
+### Solution:
+Implementing a decentralized architecture for the cafeteria system can alleviate systemic slowdowns. Distributing transaction processing and data management across multiple nodes can enhance system performance during peak hours.
 
-### Slow Response Times:
-Central systems can result in slow response times, especially during periods of high demand. This can be a significant issue for large-scale cafeteria systems.
+---
 
-### Dependency and Control Issues:
-Users may have limited participation in system changes or decision-making processes due to being under the control of a central authority. This can lead to users having less control over the system.
+## Security Challenges Arising from Intermediary Banks
 
-## Solutions:
+### Challenge:
+The involvement of intermediary banks in cafeteria transactions raises security concerns, posing potential risks to the integrity of sensitive financial information.
 
-### Decentralized Architecture:
-Implementing a decentralized system architecture helps enhance security by distributing data across nodes, reducing vulnerability to attacks.
+### Solution:
+To address security challenges, consider implementing end-to-end encryption and utilizing secure channels for financial transactions. Minimizing reliance on intermediary banks and adopting blockchain technology may enhance the overall security posture of the cafeteria system.
 
-### Privacy-Focused Design:
-Design the system with a focus on privacy, implementing encryption and decentralized storage solutions to address data privacy concerns.
+---
 
-### Fault-Tolerant Design:
-Adopt a fault-tolerant design by distributing critical system functions across multiple nodes, minimizing the impact of a single point of failure.
+## Limitations in Fund Transfer Among Students
 
-### Scalable Infrastructure:
-Utilize a scalable infrastructure to handle varying levels of demand and prevent slow response times during peak usage.
+### Challenge:
+In the current cafeteria system, students face limitations in transferring funds to peers, restricting the flexibility and usability of the money stored within the system.
 
-### Community Governance:
-Implement governance models that allow users to actively participate in decision-making processes, giving them more control over the system.
+### Solution:
+Enable a peer-to-peer fund transfer feature within the cafeteria system. Implementing a secure and user-friendly mechanism for students to transfer funds directly to each other can enhance the overall versatility and usability of the monetary resources within the system.
+
+---
+
+These proposed solutions aim to address the identified challenges in the cafeteria system. However, it's essential to carefully assess and tailor these solutions based on the specific requirements and constraints of the system in use.
+
 
 
 This is our project model overview:
@@ -99,11 +100,24 @@ This is our project model overview:
 
 8. Now, with the correct address and ABI, you can use your contract's functions. Click the "Reservation" button on our webpage, and when prompted by MetaMask, grant permission for the operation.
 
-   
-<p align="left" >
-  <img src="https://github.com/zehraozturkk/UniChain/assets/95762073/b7291788-8a5e-4911-b3ef-5eb3dfd8f2b2" alt="Ekran Görüntüsü" width="200",height="250" />
+
   
 </p>
+
+# Thank You
+
+Get ready to explore the benefits of blockchain technology using the UniChain project. For more assistance or questions, please feel free to contact our support team.
+
+**Project Team:**
+- Nermin Beyzanur Evcen  
+  Email: beyzaevceen@gmail.com
+
+- Fatmatüzzehra Öztürk  
+  Email: fzehraozturk34@gmail.com
+
+As the UniChain team, we wish you a secure, transparent, and user-friendly experience!
+
+---
 
 # UniChain Projesi
 
@@ -113,39 +127,40 @@ Blockchain teknolojisi sadece geleceğin teknolojisi değil, bugünün teknoloji
 
 Blockchain teknolojisini üniversite yemekhane sistemlerine entegre etmek, üniversitelerin karşılaştığı ortak bir sorunu ele almaktadır. Bu çözüm, gıda alımlarında şeffaflığı sağlayarak ve token kullanarak kullanıcılar için güvenli ve uygun bir ödeme süreci sunarak blockchain'i popülerleştirmeyi amaçlamaktadır. UniChain, mevcut yemekhane sistemlerindeki zorlukları aşmayı, kayıp paraların riskini azaltmayı ve üniversite öğrencileri arasında blockchain kullanımını teşvik etmeyi hedeflemektedir.
 
-## Güvenlik Sorunları:
+# Yemekhane Sistemi Zorlukları ve Çözüm Önerileri
 
-### Merkezi Sistem Güvenlik Açıkları:
-Merkezi sistemler, tek bir noktada yoğunlaştıkları için güvenlik açısından zayıf olabilir. Bu durum, kötü niyetli saldırılara veya veri sızıntılarına karşı daha savunmasız hale getirebilir.
+## Merkeziyetin Neden Olduğu Sistemsel Yavaşlamalar
 
-### Veri Gizliliği Endişeleri:
-Merkezi sistemler, kullanıcıların kişisel ve özel bilgilerini tek bir merkezi noktada depolarlar. Bu durum, kullanıcıların veri gizliliği endişelerini artırabilir.
+### Sorun:
+Yemekhane sistemlerinin merkeziyeti, sistem genelinde yavaşlamalara neden olan zorlukları beraberinde getirir, bu da sistem genelindeki verimliliği ve tepkisel hızı etkiler.
 
-### Tek Noktada Arıza Riski:
-Merkezi sistemler, tek bir sunucu veya sistemde yoğunlaştıkları için, bu sistemin arızalanması veya devre dışı kalması durumunda tüm sistemin etkilenmesine neden olabilir.
+### Çözüm:
+Yemekhane sistemi için merkeziyetten uzak bir mimari uygulamak, sistemsel yavaşlamaları hafifletebilir. İşlemleri ve veri yönetimini birden fazla noktaya yaymak, yoğun saatlerde sistem performansını artırabilir.
 
-### Yavaş Yanıt Süreleri:
-Merkezi sistemler, yoğun talep durumlarında yavaş yanıt sürelerine neden olabilir. Özellikle büyük ölçekli yemekhane sistemlerinde bu durum önemli bir sorun olabilir.
+---
 
-### Bağımlılık ve Kontrol Sorunları:
-Kullanıcılar, merkezi bir otoritenin kontrolü altında oldukları için sistemdeki değişikliklere veya karar alma süreçlerine katılım konusunda sınırlı olabilirler. Bu durum, kullanıcıların sistem üzerinde daha az kontrol sahibi olmalarına neden olabilir.
+## Aracı Bankalardan Kaynaklanan Güvenlik Zorlukları
 
-## Çözümler:
+### Sorun:
+Yemekhane işlemlerinde aracı bankaların rol alması, hassas finansal bilgilerin bütünlüğüne yönelik güvenlik endişelerine neden olur.
 
-### Merkeziyetsiz Mimarilik:
-Merkezi olmayan bir sistem mimarisi uygulamak, veriyi düğümler arasında dağıtarak güvenliği artırır ve saldırılara karşı savunmasızlığı azaltır.
+### Çözüm:
+Güvenlik zorluklarına çözüm olarak, işlemler için uçtan uca şifreleme uygulamak ve finansal işlemler için güvenli kanalları kullanmak önemlidir. Aracı bankalara olan bağımlılığı azaltmak ve blockchain teknolojisini benimsemek, yemekhane sisteminin genel güvenlik düzeyini artırabilir.
 
-### Gizlilik Odaklı Tasarım:
-Sistemi gizlilik odaklı tasarlayarak, veri gizliliği endişelerini ele almak için şifreleme ve merkezi olmayan depolama çözümlerini uygulayın.
+---
 
-### Arıza Toleranslı Tasarım:
-Kritik sistem fonksiyonlarını birden fazla düğüme dağıtarak arıza toleranslı bir tasarım benimseyin, tek bir arıza noktasının etkisini en aza indirin.
+## Öğrenciler Arasındaki Fon Transferindeki Kısıtlamalar
 
-### Ölçeklenebilir Altyapı:
-Değişen talep seviyelerini yönetmek ve yoğun kullanım dönemlerinde yavaş yanıt sürelerini önlemek için ölçeklenebilir bir altyapı kullanın.
+### Sorun:
+Mevcut yemekhane sistemlerinde öğrenciler, paralarını birbirlerine transfer etmede kısıtlamalarla karşılaşırlar, bu da sistem içindeki para kullanımının esnekliğini ve kullanılabilirliğini sınırlar.
 
-### Topluluk Yönetimi:
-Kullanıcılara sistem değişikliklerine aktif bir şekilde katılım sağlayan yönetim modelleri uygulayın, böylece kullanıcıların sistemi daha fazla kontrol etmelerini sağlayın.
+### Çözüm:
+Yemekhane sistemi içinde öğrenciden öğrenciye para transferini sağlayacak bir özellik etkinleştirmek çözüm olabilir. Öğrencilere, paralarını doğrudan birbirlerine transfer etme olanağı sağlamak, sistem içindeki parasal kaynakların genel kullanılabilirliğini ve kullanışlılığını artırabilir.
+
+---
+
+Bu önerilen çözüm stratejileri, yemekhane sistemlerinde tespit edilen sorunlara çözüm getirmeyi amaçlamaktadır. Ancak, bu çözümlerin sistem üzerindeki spesifik gereksinimlere ve kısıtlamalara dikkatlice değerlendirilerek uyarlanması önemlidir.
+
 
 ## Proje Modeli İncelemesi:
 <img width="600" alt="" src="https://github.com/zehraozturkk/UniChain/assets/101568897/ac251356-b07e-4471-a77f-c537f713a149">
